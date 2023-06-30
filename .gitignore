@@ -33,3 +33,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#google-cred
+client_secret_1004721660471-j128c091nv31b4d0guj1v9q9jg6cgclk.apps.googleusercontent.com.json
